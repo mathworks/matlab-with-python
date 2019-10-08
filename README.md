@@ -3,8 +3,8 @@ Copyright 2019 The MathWorks, Inc.
 
 ### Description 
 
-These are the supporting files for the "Calling Python from MATLAB" and 
-"Calling MATLAB from Python" how-to videos.
+These are the supporting files for the [How to Call Python from MATLAB](https://youtu.be/LHEZqpvE7D0) and 
+[How to Call MATLAB from Python](https://youtu.be/OocdPu1Tcrg) videos.
 
 They show examples of speech-to-text recognition and sentiment analysis of 
 the detected text by combining MATLAB and Python functionality.
