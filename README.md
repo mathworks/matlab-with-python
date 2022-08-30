@@ -11,9 +11,11 @@ These are the supporting files for the [How to Call Python from MATLAB](https://
 They show examples of speech-to-text recognition and sentiment analysis of 
 the detected text by combining MATLAB and Python functionality.
 
+More info and examples in the [doc for using MATLAB with Python](https://mathworks.com/help/matlab/python-language.html)
+
 ### Setup and Requirements
 
-This example requires MATLAB R2019b or later, as well as 
+This example requires MATLAB R2019b or later (for text analytics functionality), as well as 
 Statistics and Machine Toolbox and Text Analytics Toolbox.
  
 You will also need to install Python and the appropriate packages to run 
@@ -22,4 +24,4 @@ may need to first resolve other unmet dependencies.
 
 `pip install speechrecognition pocketsphinx`
 
-This example was tested using Python versions 3.6 and 3.7.
+This example was tested using Python versions 3.6 - 3.9.

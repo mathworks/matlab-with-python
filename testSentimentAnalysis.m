@@ -7,4 +7,4 @@ inputText = 'This is adequate test input for our sentiment analysis code';
 [sentiment,scores] = sentimentAnalysisVADER(inputText)
 
 %% 
-% _Copyright 2019 The MathWorks, Inc._
+% _Copyright 2019 - 2022 The MathWorks, Inc._
