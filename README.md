@@ -11,7 +11,7 @@ These are the supporting files for the [How to Call Python from MATLAB](https://
 They show examples of speech-to-text recognition and sentiment analysis of 
 the detected text by combining MATLAB and Python functionality.
 
-More info and examples in the [doc for using MATLAB with Python](https://mathworks.com/help/matlab/python-language.html)
+More info and examples in the [doc for using MATLAB with Python](https://www.mathworks.com/help/matlab/python-language.html)
 
 ### Setup and Requirements
 
